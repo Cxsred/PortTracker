@@ -1,0 +1,9 @@
+# requirements.txt
+
+# Python version
+python>=3.6
+
+# Additional dependencies
+dependency1>=1.0
+dependency2>=2.2.1
+dependency3==0.4.2
